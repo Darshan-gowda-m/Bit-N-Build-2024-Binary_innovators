@@ -3,7 +3,7 @@
 # Bit and Build Hackathon Project
 
 ### Team Members:
-- **Chandan U.**
+- **Chandan U.** ( Team Lead )
 - **Darshan Gowda M.**
 - **Poovarasan S.**
 - **Veerendra S.**
