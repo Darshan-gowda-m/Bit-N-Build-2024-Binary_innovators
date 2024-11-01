@@ -50,7 +50,7 @@ npm start
 ```
 
 
-> Open your browser and navigate to http://localhost:3000 to view the app.
+> Open your browser and navigate to http://localhost:3000/home to view the app.
 
 
 ## Contact Information:
